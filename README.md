@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kane Lewelling
 - 👀 I’m interested in software development
-- 🌱 I recently graduated with a degree in Computer Science 
+- 🌱 I have a degree in Computer Science 
 - 📫 How to reach me: kanelewelling@gmail.com
 
 <!---
